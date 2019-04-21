@@ -1,2 +1,0 @@
-# RecyclerViewUTS
-RecyclerView project ListHandphone
